@@ -1,5 +1,10 @@
-# poly_hello_world
+<h1 align="center">
+    poly_hello_world
+</h1>
+
+<p align="center">
 An obfuscated Hello World in C. 
+</p>
 
 ## Building
 
