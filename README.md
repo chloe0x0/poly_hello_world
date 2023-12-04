@@ -44,7 +44,7 @@ In C the polynomial was implemented as:
 #include <stdio.h>
 #include <math.h>
 int main(void){for (int x = 0; x <= 11; ++x){
-    putchar((73.00000000000003 * pow(x,0))+
+    putchar((72.00000000000003 * pow(x,0))+
     (-3938.6833935636064 * pow(x,1))+
     (10817.679691395751 * pow(x,2))+
     (-11703.194604023123 * pow(x,3))+
