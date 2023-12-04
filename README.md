@@ -34,7 +34,9 @@ $f(i)$ gives the ith character (in ASCII) of "Hello World!", where $0 \le i \lt 
 
 So what does "Hello World!" look like as a graph?????
 
-![]()
+<p align="center">
+    <img src="polyFig.png">
+</p>
 
 ## In C
 
